@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+h1, 
+h2, 
+h3 {
+    color: white;
+}
+
+span {
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    color: gray;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+p, 
+i {
+    color: gray;
+}
