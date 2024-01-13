@@ -1,5 +1,4 @@
 body {
-    margin: 0;
     font-family: Verdana;
     background-color: black;
     text-align: center;
@@ -11,7 +10,7 @@ h3 {
     color: white;
 }
 
-span {
+.link--cta {
     color: aquamarine;
     text-decoration: underline;
 }
@@ -36,3 +35,10 @@ p,
 i {
     color: gray;
 }
+
+/* DISPLAY AND POSITIONING */
+
+footer {
+    text-align: right;
+}
+
